@@ -7,8 +7,8 @@
 window.LOJA = {
   nome: "Point da Pizza",
   subtitulo: "Pizzaria & Lanches",
-  whatsapp: "5585921476511",          // NÚMERO DE TESTE. Oficial: 5585988457129
-  whatsappExibicao: "(85) 92147-6511",
+  whatsapp: "5585900000000",          // número fictício (projeto de portfólio)
+  whatsappExibicao: "(85) 90000-0000",
   instagram: "pointdapizza._",
   nota: 4.5,                           // Google Maps (o Anota AI não exibe nota)
   avaliacoes: 75,
